@@ -1,28 +1,31 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Nathan Davis"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "MTGNet"                             # CHANGE HERE 
   type: inverse
   left:
-    - text: "Home"
+    - text: "Abstract"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Problem Statement"
       icon: fa-user 
-      href: about.html
-    - text: "CV"
+      href: prob.html
+    - text: "Methodology"
       icon: fa-file-pdf-o
-      href: cv.html
-    - text: "Blog"
+      href: method.html
+    - text: "Evaluation & Results"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: eval.html
+    - text: "Discussion"
+      icon: fa-file-pdf-o
+      href: disc.html
+    - text: "Demo"
+      icon: fa-file-pdf-o
+      href: demo.html
   right:
-    - text: "Contact me"
-      icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/ndavis98uw/MTGNet       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
