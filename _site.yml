@@ -13,7 +13,7 @@ navbar:
     - text: "Problem Statement"
       icon: fa-user 
       href: prob.html
-    - text: "Methodology"
+    - text: "Methods"
       icon: fa-user
       href: method.html
     - text: "Evaluation & Results"
