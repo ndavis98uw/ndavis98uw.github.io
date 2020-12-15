@@ -4,9 +4,12 @@ navbar:
   title: "MTGNet"                             # CHANGE HERE 
   type: inverse
   left:
-    - text: "Abstract"
+    - text: "Video"
       icon: fa-home
       href: index.html
+    - text: "Abstract"
+      icon: fa-home
+      href: abstract.html
     - text: "Problem Statement"
       icon: fa-user 
       href: prob.html

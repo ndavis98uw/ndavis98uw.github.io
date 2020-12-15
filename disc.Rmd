@@ -1,5 +1,5 @@
 ---
-title: "Further Investigations"
+title: "Further Investigation"
 ---
 
 First, there are a few things that I planned to explore in my initial proposal that had to be cut due to time constraints. I would have liked to develop a GAN to generate new MTG art as well as extract convolutional filters from the network to gain insight into the defining characteristics of different mechanical features.

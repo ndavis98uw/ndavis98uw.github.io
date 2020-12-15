@@ -11,7 +11,7 @@
 
 
 
-<title>Problem Statement</title>
+<title>Abstract</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -358,12 +358,12 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Problem Statement</h1>
+<h1 class="title toc-ignore">Abstract</h1>
 
 </div>
 
 
-<p>MTG is a game featuring a large array of illustrated cards. These cards also feature a variety of mechanical features. By labelling the card illustration using these mechanical features a labelled dataset can be created. The aim of this project is to leverage this new dataset to create classifiers for various novel mechanical features of these cards. These classifiers can be used to aid in top-down design (Card designs inspired by art or other media rather than mechanical intent) from non-MTG works of art and can give insights into the art direction of various card types in MTG.</p>
+<p>Using Magic the Gathering (MTG) Cards and their features I constructed a labeled dataset of MTG card art. This dataset was constructed using the scryfall REST API and was processed heavily to clean the dataset for training on. I then constructed a neural network for classifying mechanical features of cards from art. The two features I classified for were type and color. In all cases my network was able to beat random chance by a significant margin.</p>
 
 
 
