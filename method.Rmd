@@ -23,6 +23,8 @@ Lastly, its worth mentioning that several of the design choices for my network, 
 
 The exact specification of the design can be seen below:
 
+![](/Users/ndavis/Documents/ndavis98uw.github.io/images/Network.png)
+
 **Hyper Parameter Tuning:**
 
 I handled hyperparameter using optuna, a python framework for hyperparameter tuning. I trained four different hyperparameters: Epochs, Learning Rate, Batch Size, and Weight Decay. I heuristically defined the ranges of each of these variables. These values can be seen in the table below. Values were selected from this range using the TPESampler, sample provided by Optuna which fits a Gaussian Mixture Model to help improve the effectiveness of hyperparameter tuning.
