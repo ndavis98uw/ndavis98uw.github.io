@@ -2,6 +2,6 @@
 title: "Cited Sources"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Viswanathan, Nitin. "Artist identification with convolutional neural networks." Standford193CS231N Report (2017).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Viswanathan, Nitin. "Artist identification with convolutional neural networks." Standford193CS231N Report (2017).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scryfall API. Scryfall API. https://api.scryfall.com.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scryfall API. Scryfall API. https://api.scryfall.com.

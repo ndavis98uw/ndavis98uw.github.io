@@ -6,8 +6,8 @@ In addition to the included card art scattered across the sight I also included 
 
 To use this demo download these model checkpoint snapshots:
 
-<a href="models" class="download" title="Download Models Here">Download Models</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="models" class="download" title="Download Models Here">Download Models</a>
 
 Then down the following python notebook, following the instruction, and run.
 
-<a href="demo.iypnb" class="download" title="Download Demo Here">Download Demo</a>
+<&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a href="demo.iypnb" class="download" title="Download Demo Here">Download Demo</a>

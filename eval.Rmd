@@ -9,17 +9,25 @@ This project’s classifiers were evaluated using the test loss and test accurac
 **Results:**
 
 Monocolor Color Classification:
-Test Loss: 1.531
-Test Accuracy: 41.026
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Loss: 1.531
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Accuracy: 41.026
 
 Monocolor Type Classification:
-Test Loss: 2.284
-Test Accuracy: 33.396
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Loss: 2.284
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Accuracy: 33.396
 
 Dualcolor Color Classification:
-Test Loss: 1.933
-Test Accuracy: 36.945
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Loss: 1.933
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Accuracy: 36.945
 
 Dualcolor Type Classification:
-Test Loss: 2.222
-Test Accuracy: 35.278
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Loss: 2.222
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Accuracy: 35.278
