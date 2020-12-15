@@ -14,11 +14,15 @@ Monocolor Color Classification:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Accuracy: 41.026
 
+![](/Users/ndavis/Documents/ndavis98uw.github.io/images/monocolor_color_accuracy.png)
+
 Monocolor Type Classification:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Loss: 2.284
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Accuracy: 33.396
+
+![](/Users/ndavis/Documents/ndavis98uw.github.io/images/monocolor_type_accuracy.png)
 
 Dualcolor Color Classification:
 
@@ -26,8 +30,12 @@ Dualcolor Color Classification:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Accuracy: 36.945
 
+![](/Users/ndavis/Documents/ndavis98uw.github.io/images/dualcolor_color_accuracy.png)
+
 Dualcolor Type Classification:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Loss: 2.222
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Accuracy: 35.278
+
+![](/Users/ndavis/Documents/ndavis98uw.github.io/images/dualcolor_type_accuracy.png)
