@@ -11,18 +11,22 @@ navbar:
       icon: fa-user 
       href: prob.html
     - text: "Methodology"
-      icon: fa-file-pdf-o
+      icon: fa-user
       href: method.html
     - text: "Evaluation & Results"
-      icon: fa-rss
+      icon: fa-user
       href: eval.html
     - text: "Discussion"
-      icon: fa-file-pdf-o
+      icon: fa-user
       href: disc.html
-    - text: "Demo"
-      icon: fa-file-pdf-o
-      href: demo.html
+    
   right:
+    - text: "Demo"
+      icon: fa-user
+      href: demo.html
+    - text: "Cited Sources"
+      icon: fa-user
+      href: cit.html
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/ndavis98uw/MTGNet       # CHANGE HERE 

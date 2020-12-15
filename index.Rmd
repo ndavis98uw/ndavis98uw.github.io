@@ -2,3 +2,4 @@
 title: "Abstract"
 ---
 
+Using Magic the Gathering (MTG) Cards and their features I constructed a labeled dataset of MTG card art. This dataset was constructed using the scryfall REST API and was processed heavily to clean the dataset for training on. I then constructed a neural network for classifying mechanical features of cards from art. The two features I classified for were type and color. In all cases my network was able to beat random chance by a significant margin. 

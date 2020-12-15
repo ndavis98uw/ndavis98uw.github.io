@@ -1,7 +1,25 @@
 ---
-title: "About me"
+title: "Evaluation & Results"
 ---
 
-## Header
+**Evaluation:**
 
-Say more about you here.
+This project’s classifiers were evaluated using the test loss and test accuracy of the models. The test set and training set were split preemptively, and validation accuracy was used for hyperparameter tuning. These accuracy and loss values can be seen in the results section below.
+
+**Results:**
+
+Monocolor Color Classification:
+Test Loss: 1.531
+Test Accuracy: 41.026
+
+Monocolor Type Classification:
+Test Loss: 2.284
+Test Accuracy: 33.396
+
+Dualcolor Color Classification:
+Test Loss: 1.933
+Test Accuracy: 36.945
+
+Dualcolor Type Classification:
+Test Loss: 2.222
+Test Accuracy: 35.278
